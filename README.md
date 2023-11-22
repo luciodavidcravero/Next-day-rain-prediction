@@ -1,7 +1,4 @@
-data-science-template
-==============================
-
-A short description of the project.
+The primary goal of this project is to develop predictive models for next-day rainfall in Australia from a 10-years dataset
 
 Project Organization
 ------------
